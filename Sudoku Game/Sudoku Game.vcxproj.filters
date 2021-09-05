@@ -18,5 +18,34 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GeneralFunctions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoardFunctions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ActivePlayersFunctions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinningPlayersFunctions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneralFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ActivePlayersFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WinningPlayersFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
